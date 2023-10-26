@@ -3,4 +3,10 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = nextConfig
+
+module.exports = {
+  images: {
+    domains: ["www.edigitalagency.com.au","i.pinimg.com"],
+    
+  },
+};
