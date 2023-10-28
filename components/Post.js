@@ -17,7 +17,7 @@ function Post({id,username,userImg,img,caption}) {
  
 <div className='relative absolute child mt-7'>
 <div className='flex items-center '>
-    <img src="/LOGO.png"alt='' className='rounded-full h-11 w-11 object-cover ml-3 mr-3' />
+    <img src="LOGO.png"alt='' className='rounded-full h-11 w-11 object-cover ml-3 mr-3' />
     <p className='text-white'>Srinivash</p>
     <DotsHorizontalIcon className=' h-5 pl-96 text-white  Do'/>
     </div>
