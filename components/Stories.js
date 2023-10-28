@@ -11,7 +11,7 @@ function Stories() {
  </div>
  <div className='relative  h-24 w-24 m-0.5 mt-2'>
  <Image
-        src={'2.png'} layout='fill' objectFit='contain'/>
+        src={'/2.png'} layout='fill' objectFit='contain'/>
  </div>
  <div className='relative hidden md:block h-24 w-24 m-0.5 mt-2'>
  <Image
